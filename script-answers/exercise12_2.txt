@@ -1,0 +1,6 @@
+docker container run -d -it --name myContainer ubuntu
+docker container attach myContainer
+mkdir /usr/src/app
+cd usr/src/app
+touch index.js
+exit

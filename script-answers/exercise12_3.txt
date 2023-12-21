@@ -1,0 +1,2 @@
+apt-get -y install nano
+nano /usr/src/app/index.js
